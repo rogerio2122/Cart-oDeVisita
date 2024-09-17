@@ -1,0 +1,27 @@
+header{
+
+    background-color: aqua;
+    color: blueviolet;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20%;
+}
+
+nav{
+    background: linear-gradient(rgb(5, 203, 25), rgb(5, 233, 73));
+    text-align: center;
+    border-radius: 20%;
+
+}
+
+footer{
+    background: linear-gradient(rgb(8, 168, 200), rgb(3, 199, 189));
+    border-radius: 20%;
+    text-align: center;
+}
+
+img{
+
+    border-radius: 45%;
+}
